@@ -1,0 +1,9 @@
+.navStyle{
+    margin: 15px 5px;
+    font-size: 20px;
+}
+
+.selected{
+    font-weight: bold;
+    color: red;
+}
